@@ -1,0 +1,163 @@
+[
+    {
+      "id": 1,
+      "name": "Sushi",
+      "date": "early 19th century",
+      "image": "https://example.com/sushi.jpg",
+      "description": "Vinegared rice with various toppings such as raw fish or vegetables.",
+      "comments": []
+    },
+    {
+      "id": 2,
+      "name": "Tacos",
+      "date": "16th century",
+      "image": "https://example.com/tacos.jpg",
+      "description": "Soft or crispy tortillas filled with ingredients like meat, beans, and cheese.",
+      "comments": []
+    },
+    {
+      "id": 3,
+      "name": "Pasta Carbonara",
+      "date": "mid-20th century",
+      "image": "https://example.com/carbonara.jpg",
+      "description": "Pasta with a creamy sauce made from eggs, cheese, pancetta, and pepper.",
+      "comments": []
+    },
+    {
+      "id": 4,
+      "name": "Borscht",
+      "date": "14th century",
+      "image": "https://example.com/borscht.jpg",
+      "description": "A beet soup that is often served hot or cold, sometimes with sour cream.",
+      "comments": []
+    },
+    {
+      "id": 5,
+      "name": "Baklava",
+      "date": "15th century",
+      "image": "https://example.com/baklava.jpg",
+      "description": "A sweet pastry made of layers of filo dough filled with nuts and honey or syrup.",
+      "comments": []
+    },
+    {
+      "id": 6,
+      "name": "Dim Sum",
+      "date": "Song Dynasty (960-1279 AD)",
+      "image": "https://example.com/dim_sum.jpg",
+      "description": "A variety of small, flavorful dishes like dumplings, buns, and rolls, often enjoyed with tea.",
+      "comments": []
+    },
+    {
+      "id": 7,
+      "name": "Croissant",
+      "date": "17th century",
+      "image": "https://example.com/croissant.jpg",
+      "description": "A buttery, flaky pastry that’s often enjoyed for breakfast.",
+      "comments": []
+    },
+    {
+      "id": 8,
+      "name": "Ceviche",
+      "date": "Pre-Columbian era",
+      "image": "https://example.com/ceviche.jpg",
+      "description": "Fresh seafood marinated in citrus juices with onions, cilantro, and chili peppers.",
+      "comments": []
+    },
+    {
+      "id": 9,
+      "name": "Poutine",
+      "date": "1950s",
+      "image": "https://example.com/poutine.jpg",
+      "description": "French fries topped with cheese curds and smothered in gravy.",
+      "comments": []
+    },
+    {
+      "id": 10,
+      "name": "Bunny Chow",
+      "date": "1940s",
+      "image": "https://example.com/bunny_chow.jpg",
+      "description": "A hollowed-out loaf of bread filled with curry.",
+      "comments": []
+    },
+    {
+      "id": 11,
+      "name": "Samosas",
+      "date": "10th century",
+      "image": "https://example.com/samosas.jpg",
+      "description": "Fried or baked pastries filled with spiced potatoes, peas, and sometimes meat.",
+      "comments": []
+    },
+    {
+      "id": 12,
+      "name": "Moussaka",
+      "date": "19th century",
+      "image": "https://example.com/moussaka.jpg",
+      "description": "A layered casserole with eggplant, ground meat, and béchamel sauce.",
+      "comments": []
+    },
+    {
+      "id": 13,
+      "name": "Pho",
+      "date": "early 20th century",
+      "image": "https://example.com/pho.jpg",
+      "description": "A fragrant noodle soup with broth, rice noodles, herbs, and meat, often beef or chicken.",
+      "comments": []
+    },
+    {
+      "id": 14,
+      "name": "Kebabs",
+      "date": "15th century",
+      "image": "https://example.com/kebabs.jpg",
+      "description": "Grilled skewers of meat or vegetables, often served with flatbread and various dips.",
+      "comments": []
+    },
+    {
+      "id": 15,
+      "name": "Arepas",
+      "date": "pre-Columbian era",
+      "image": "https://example.com/arepas.jpg",
+      "description": "Cornmeal cakes that can be grilled, baked, or fried and filled with various ingredients.",
+      "comments": []
+    },
+    {
+      "id": 16,
+      "name": "Goulash",
+      "date": "9th century",
+      "image": "https://example.com/goulash.jpg",
+      "description": "A hearty stew made with meat, vegetables, and paprika.",
+      "comments": []
+    },
+    {
+      "id": 17,
+      "name": "Tempura",
+      "date": "16th century",
+      "image": "https://example.com/tempura.jpg",
+      "description": "Seafood or vegetables battered and deep-fried until crispy.",
+      "comments": []
+    },
+    {
+      "id": 18,
+      "name": "Feijoada",
+      "date": "16th century",
+      "image": "https://example.com/feijoada.jpg",
+      "description": "A rich black bean stew with pork and beef, typically served with rice.",
+      "comments": []
+    },
+    {
+      "id": 19,
+      "name": "Pavlova",
+      "date": "1920s",
+      "image": "https://example.com/pavlova.jpg",
+      "description": "A meringue-based dessert topped with fruit and whipped cream.",
+      "comments": []
+    },
+    {
+      "id": 20,
+      "name": "Jollof Rice",
+      "date": "15th century",
+      "image": "https://example.com/jollof_rice.jpg",
+      "description": "A spicy, tomato-flavored rice dish often cooked with vegetables and meat.",
+      "comments": []
+    }
+  ]
+  
